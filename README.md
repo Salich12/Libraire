@@ -1,4 +1,4 @@
-# Projet 6 : Analyser les ventes d'une librairie avec Python
+# Projet : Analyser les ventes d'une librairie avec Python
 
 ## &#128203; Scénario
 Nous sommes consultant *Data Analyst* rattaché au service Marketing chez Lapage, une grande librairie généraliste en ligne très réputée. Devant le succès de certains de ses produits et l’engouement de ses clients, elle a décidé d’ouvrir un site de vente en ligne. Nous intervenons car l’entreprise souhaite faire le point après deux ans d’exercice.
